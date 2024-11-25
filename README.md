@@ -1,5 +1,3 @@
-[# Movie_Recommendation_System_Using_KNN]
-
 # 🎬 **Film Öneri Sistemi**
 
 Bu proje, kullanıcıların kişiselleştirilmiş film önerileri almasını, filmleri puanlamasını ve çeşitli filtreleme seçenekleriyle arama yapmasını sağlayan bir **Film Öneri Sistemi**dir. Flask tabanlı bir web uygulaması olarak geliştirilmiştir ve KNN algoritmasını kullanır.
