@@ -24,8 +24,8 @@ Bu projeyi çalıştırmak için aşağıdaki araçların sisteminizde kurulu ol
 
 ### 2. **Projenin Klonlanması**
 ```bash
-git clone https://github.com/kullaniciadi/film-oneri-sistemi.git
-cd film-oneri-sistemi
+git clone https://github.com/s1m4y2/Movie_Recommendation_System_Using_KNN.git
+cd Movie_Recommendation_System_Using_KNN
 ```
 
 ### 3. **Gerekli Kütüphanelerin Yüklenmesi**
@@ -40,24 +40,6 @@ python app.py
 
 Ardından tarayıcınızda http://127.0.0.1:5000 adresine gidin.
 
-
-## 🗂️ **Proje Yapısı**
-film-oneri-sistemi/
-├── app.py                   # Flask ana uygulaması
-├── recommendation.py        # Öneri fonksiyonlarını içeren dosya
-├── visualization.py         # Görselleştirme için kodlar
-├── templates/               # HTML şablonları
-│   ├── index.html
-│   ├── recommendations.html
-│   ├── error.html
-│   ├── success.html
-│   └── visualization.html
-├── static/                  # Statik dosyalar (CSS, JS, resimler)
-├── data/                    # Kullanılan veri setleri
-│   └── movies.csv
-├── README.md                # Proje açıklama dosyası
-└── requirements.txt         # Gerekli Python paketleri
----
 
 ## 🌟 **Kullanım**
 - **Film Önerisi Almak**: Ana sayfada Kullanıcı ID girerek öneri alın.
